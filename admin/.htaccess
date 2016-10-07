@@ -1,0 +1,5 @@
+AuthName "Phrase d'acceuil" 
+AuthType Basic 
+AuthUserFile "/Users/eltintin/Documents/Web/TP3/admin/.htpsswd" 
+Require valid-user 
+
